@@ -1,4 +1,3 @@
-<img src=".temp/psi-software.png" width="100"><br>
 ## Action Buttom Sheet
 - Uma aba inferior interativa de alto desempenho com opções totalmente configuráveis
 
